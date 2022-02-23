@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "194398616280",
+    "project_id": "ieeespsu-207f1",
+    "storage_bucket": "ieeespsu-207f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194398616280:android:ad69007414803f920835ad",
+        "android_client_info": {
+          "package_name": "com.example.ieeespsu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194398616280-vk5e7ms6kpc9p9pi5c2qgpqaokomap5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMbfy-iEBPv7jLMmSY9rmyH3qKOkHvoqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194398616280-vk5e7ms6kpc9p9pi5c2qgpqaokomap5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
